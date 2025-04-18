@@ -136,9 +136,9 @@ rl-chess-ai/
 👨‍💻 Contributors
 Supervisor: Prof. John Pradeep Darsy, VIT-AP
 
-CH. Naga Vengama Naidu (22BCE9341) – @minico
+CH. Naga Vengama Naidu (22BCE9341) – chnvengamanaiduatwork@gmail.com
 
-G. Manoj Vamsi Reddy (22BCE20281) – @gmanoj
+G. Manoj Vamsi Reddy (22BCE20281) – manojvamsi05@gmail.com
 
 📜 License
 This project is licensed for academic and research purposes.
